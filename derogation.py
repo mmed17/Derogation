@@ -306,7 +306,6 @@ class Derogation:
         for widget in self.importItems:
             widget.clear()
             widget.addItems(layers)
-
     def updateImportItems(self):
         # self.insertedLayers.update({widget_index: layer_name})
         # all_layers = self.layers.keys()
@@ -316,3 +315,5 @@ class Derogation:
         #        current_widget.clear()
         #        current_widget.addItems([val for val in all_layers if val not in self.insertedLayers])
         print("Fiin")
+        
+#Hi Fati to Git Hub
